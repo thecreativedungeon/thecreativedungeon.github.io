@@ -12,4 +12,6 @@ title: About
 		<li>H.P Lovecraft</li>
 		<li>Stephen King</li>
   </ul>
+	<h2>Header image artist?</h2>
+	<p><a href="https://www.artstation.com/artwork/o8EvO">Sephiroth art</a></p>
 </div>
