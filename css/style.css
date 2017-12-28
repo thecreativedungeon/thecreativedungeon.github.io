@@ -803,7 +803,7 @@ HEADER STYLING
   background-color: seagreen;
   background-image: url("../img/sephiroth-art-stream-04.jpg");
   background-size: cover;
-  background-position: center center;
+  background-position: 0 10%;
   color: white;
   padding: 0;
   height: 3em; }
