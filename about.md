@@ -13,5 +13,5 @@ title: About
 		<li>Stephen King</li>
   </ul>
 	<h2>Header image artist?</h2>
-	<p><a href="https://www.artstation.com/artwork/o8EvO">Sephiroth art</a></p>
+	<p><a href="https://www.artstation.com/artwork/o8EvO" target="_blank">Sephiroth art</a></p>
 </div>
